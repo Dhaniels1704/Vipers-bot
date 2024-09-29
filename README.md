@@ -3,3 +3,6 @@
 
 # INFORMASI
 > **Vipers Bot** menggunakan base dari **Alphabot-MD** dan sudah support **Pairing Code**
+
+# TUTORIAL INSTALASI
+Klik disini untuk tutorial pemasangan scrip di Panel Pterodactyl [Youtube](https://youtu.be/hyt7FECIE9g?si=fdBUqgYxt7hAPVLe)
