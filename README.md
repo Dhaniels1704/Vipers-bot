@@ -116,3 +116,12 @@ Klik disini untuk tutorial pemasangan scrip di Panel Pterodactyl [Youtube](https
 ```
 
 </details>
+
+<details>
+  <summary> <b>Changelog</b></summary>
+
+  ```
+# 2 Oktober 20204 : Update 
+```
+
+</details>
