@@ -121,7 +121,67 @@ Klik disini untuk tutorial pemasangan scrip di Panel Pterodactyl [Youtube](https
   <summary> <b>Changelog</b></summary>
 
   ```
-# 2 Oktober 20204 : Update 
+# 21 Oktober 2023
+- Membuat tampilan menu baru dan dipindahkan ke folder *MENUBASE*
+- Penambahan Fitur Download Vidio *TIKTOK*
+- Penambahan Fitur *GET ID GRUP* tapi fitur push kontaknya engga dibikin work takut ke *BANNED* nomer gw wkwk
+
+# 7 Januari 2024
+- Penambahan fitur *SEARCHING*
+ > YT Search cmd (ytsearch Judul)
+- Memperbaiki Fitur Stalk Akun Game
+ > Stalk Free Fire cmd (cekff ID Game)
+ > Stalk Mobile Legends cmd (cekml id/server)
+   
+# 12 Januari 2024
+- Ganti Baileys dari adiwajshing ke whiskeysockets
+   
+# 21 Januari 2024
+- Penambahan Fitur Stalking Username
+ > Fitur Stalk CODM
+ > Fitur Stalk Genshin Impact
+
+# 27 Februari 2024
+- Memperbaiki Fitur Setpay, Payment dan Addsewa
+
+# 26 Mei 2024
+- Penambahan fitur cek region mlbb (Mlreg)
+
+# 16 Juni 2024
+- Penambahan watermark dibagian console
+
+# 4 Juli 2024
+- Update Command Cekml agar bisa input id server tanpa ada tanda /
+- Update jadi pairing code
+
+# 18 Agustus 2024
+- Penambahan fitur Toimg
+
+# 21 Agustus 2024
+- Menambahkan fitur download foto dari Pinterest
+- Menambahkan fitur Stalking Sosmed 
+ > stalktt
+ > stalkig
+ > stalktwt
+ > stalkgithub
+
+# 23 Agustus 2024
+- Update Baileys ke versi 6.7.7
+
+# 7 September fitur cek region MLBB matot
+
+# 16 September 2024
+- Update function upload image dari TelegraPh ke Imgbb.com
+- Update fitur cek region MLBB
+
+# 17 September 2024
+- Update fitur delsewa menggunakan ID grup, jadi ga perlu ketik delsewa di grup penyewa
+- Bisa cek sewa 1 grup, misal ada 5 grup penyewa dan fitur ceksewa di eksekusi di grup 1 maka data sewa yang muncul hanya grup 1 aja
+- Penambahan Fitur cek username sausage man
+
+# 2 Oktober 2024
+- Update function Upload image ke hosting ke https://catbox.moe
+- Penambahan fitur Tourl (foto menjadi link)
 ```
 
 </details>
