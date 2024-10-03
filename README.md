@@ -5,10 +5,16 @@
 > **Vipers Bot** sudah support **Pairing Code**, Script ini **Full Encripsi** jika ingin membeli scriptnya tanpa Encripsi bisa hubungi owner melalui link dibawah
 
 ## TUTORIAL INSTALASI
-Klik disini untuk tutorial pemasangan scrip di Panel Pterodactyl [Youtube](https://youtu.be/hyt7FECIE9g?si=fdBUqgYxt7hAPVLe)
+Klik foto dibawah untuk tutorial pemasangan script di Panel Pterodactyl
+
+<p align="center">
+  <a href="https://youtu.be/hyt7FECIE9g?si=fdBUqgYxt7hAPVLe"><img src="https://files.catbox.moe/ak34qk.jpg" />
+</p>
 
 #### WhatsApp Grup Dhaniels Store
 <a href="https://bit.ly/Dhaniels_store"><img src="https://img.shields.io/badge/Dhaniels Store WhatsApp Grup-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+---
 
 <details>
   <summary> <b>Fitur Bot</b></summary>
